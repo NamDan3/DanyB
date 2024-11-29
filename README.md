@@ -20,8 +20,8 @@ into a patient's body. This project aims to provide students with hands-on exper
 engineering, electronics, programming, and medical device desig
 
 ## Flow Chart
-![Flow Chart](Flowchart.png)
+![Flow Chart](Flowchart.jpg)
 ## Block Diagram
-![Block Diagram](Blogdiagram.png)
+![Block Diagram](Blockdiagram.jpg)
 ## State Diagram
-![State Diagram](Statediagram.png)
+![State Diagram](statediagram.jpg)
