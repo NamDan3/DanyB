@@ -17,7 +17,7 @@ used in various medical settings, including hospitals, clinics, and research lab
 The objective of this project is to design and build a functional prototype of a syringe pump,
 a medical device used to deliver precise amounts of fluids, such as medications or nutrients,
 into a patient's body. This project aims to provide students with hands-on experience in
-engineering, electronics, programming, and medical device desig
+engineering, electronics, programming, and medical device design.
 
 ## Flow Chart
 ![Flow Chart](Flowchart.jpg)
